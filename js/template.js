@@ -10,7 +10,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/ancy_wall.jpg');
+		$(".banner-image").backstretch('images/csau_home.jpg');
 		
 		// Fixed header
 		//-----------------------------------------------
